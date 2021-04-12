@@ -3,10 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: homepage
-title: Example Website
+title: Welcome!
 ---
 
-I am an example website. 
 
 ### Writing
 My content can be written in Markdown
